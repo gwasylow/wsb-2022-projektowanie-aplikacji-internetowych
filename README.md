@@ -1,5 +1,7 @@
 # wsb-2022-projektowanie-aplikacji-internetowych
 
+ALL YOUR BASE ARE BELONG TO US!!
+
 To jest linijka dodana od Michała.
 Zmiana do pliku (edycja) od Grześka, wykonana 4 grudnia o 11.40
 <<<<<<< HEAD
