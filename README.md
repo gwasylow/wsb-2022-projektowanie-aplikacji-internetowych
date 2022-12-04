@@ -2,6 +2,9 @@
 
 To jest nowa linijka (zmiana od Łukasza).
 Greg dopisuje się tutaj.
+To jest nowa linijka (zmiana od Łukasza).
+Greg dopisuje się tutaj. modyfikacja od Ł
+Greg dopisuje się tutaj. Będę chciał wykonać konflikt.
 Resztę skasowałem.
 
 Dodana linijka od Michała
