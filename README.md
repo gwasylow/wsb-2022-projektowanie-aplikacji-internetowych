@@ -1,5 +1,3 @@
 # wsb-2022-projektowanie-aplikacji-internetowych
 
-To jest nowa linijka (zmiana od Łukasza). 
-Greg dopisuje się tutaj. Będę chciał wykonać konflikt.
-Resztę skasowałem.
+Zmiana do pliku (edycja) od Grześka, wykonana 4 grudnia o 11.40
