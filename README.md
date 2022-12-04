@@ -6,3 +6,4 @@ Greg dopisuje się tutaj. modyfikacja od Ł
 Greg dopisuje się tutaj. Będę chciał wykonać konflikt.
 Resztę.
 Coś nowego, tego nie było.
+To jest zmiana ood Tomka
